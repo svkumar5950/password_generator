@@ -46,7 +46,7 @@ while is_d_valid:
         digits_password = input(
             'Please enter the number of character\'s for each password (min - 4 characters):')
 
-# To validate - if special characters are requiered
+# To validate - if special characters are required
 is_schar_valid = True
 want_schar = True
 while is_schar_valid:
