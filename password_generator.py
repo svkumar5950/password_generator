@@ -69,7 +69,7 @@ while is_schar_valid:
 cap_letters = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'
 small_letters = 'abcdefghijklmnopqrstuvwxyz'
 num_char = '0123456789'
-special_char = '!@#$%^&*_'
+special_char = '"!@#$%^&*()-+?_=,<>/"'
 
 # List of character types - to select or unselect special charcters
 chars = [cap_letters, small_letters, num_char, special_char]
